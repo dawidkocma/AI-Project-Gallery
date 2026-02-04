@@ -1,5 +1,5 @@
 
-| S No | Project Name | Domain | Repository | End-to-End |
+|  No  | Project Name | Domain | Repository | End-to-End |
 | :--- | :----------- | :----- | :--------- | :---------: |
 | 01 | Automated Candidate Screening System  | Workflow Orchestration / n8n / NLP | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)]([https://github.com/DawidKocma](https://github.com/dawidkocma/Automated-Candidate-Screening-System)) | <p align="center">✔</p> |
 | 02 | "Iron Dome" News Bot | NLP / Event-Driven | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)]([https://github.com/DawidKocma](https://github.com/dawidkocma/iron-dome-news-bot)) | <p align="center">✔</p> |
@@ -10,7 +10,7 @@
 
 # Many more projects will be uploaded soon!
 
-| S No | Project Name | Domain | Repository |
+|  No  | Project Name | Domain | Repository |
 | :--- | :----------- | :----- | :--------- |
 | 01 | Predictive Risk & Anomaly Scoring | Unsupervised Learning | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) |
 | 02 | F1 Winner Predictor (2026 Season) | Predictive Forecasting | ![Coming Soon](https://img.shields.io/badge/Coming-Soon-orange.svg) ||
