@@ -1,10 +1,12 @@
 
 |  No  | Project Name | Domain | Repository | End-to-End |
 | :--- | :----------- | :----- | :--------- | :---------: |
-| 01 | Automated Candidate Screening System  | Workflow Orchestration / n8n / NLP | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)]([https://github.com/DawidKocma](https://github.com/dawidkocma/Automated-Candidate-Screening-System)) | <p align="center">✔</p> |
-| 02 | "Iron Dome" News Bot | NLP / Event-Driven | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)]([https://github.com/DawidKocma](https://github.com/dawidkocma/iron-dome-news-bot)) | <p align="center">✔</p> |
-| 03 | Housing Valuation API | Regression / MLOps | (Currently migrating to a new repo) | <p align="center"> </p> |
-| 04 | Custom CMS Website | Full-Stack Engineering | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)]([https://github.com/DawidKocma](https://github.com/dawidkocma/blog-v3)) | <p align="center">✔</p> |
+| 01 | Automated Candidate Screening System | Workflow Orchestration / n8n / NLP | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/dawidkocma/Automated-Candidate-Screening-System) | ✔ |
+| 02 | "Iron Dome" News Bot | NLP / Event-Driven | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/dawidkocma/iron-dome-news-bot) | ✔ |
+| 03 | Housing Valuation API | Regression / MLOps | (Currently migrating to a new repo) | |
+| 04 | Custom CMS Website | Full-Stack Engineering | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/dawidkocma/blog-v3) | ✔ |
+| 05 | Custom CMS Website | Full-Stack Engineering | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/dawidkocma/blog-v3) | ✔ |
+| 06 | Custom CMS Website | Full-Stack Engineering | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/dawidkocma/blog-v3) | ✔ |
 
  * For More Projects: [<b>Follow me on GitHub</b>](https://github.com/DawidKocma) 
 
