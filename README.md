@@ -6,7 +6,7 @@
 | 03 | Housing Valuation API | Regression / MLOps | (Currently migrating to a new repo) | |
 | 04 | Custom CMS Website | Full-Stack Engineering | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/dawidkocma/blog-v3) | ✔ |
 | 05 | Graduate Salary Analysis | Data Science / Web Scraping / Analytics | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/dawidkocma/Data-Analysis/tree/main/graduate_salary_analysis)| ✔ |
-| 06 | Custom CMS Website | Data Science / Web Scraping / Analytics | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/dawidkocma/Data-Analysis/tree/main/programming_languages_popularity) | ✔ |
+| 06 | Stack Overflow Usage Analysis| Data Science / Web Scraping / Analytics | [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue.svg)](https://github.com/dawidkocma/Data-Analysis/tree/main/programming_languages_popularity) | ✔ |
 
  * For More Projects: [<b>Follow me on GitHub</b>](https://github.com/DawidKocma) 
 
